@@ -1,0 +1,26 @@
+[
+  {
+    "question_time": 1580000000,
+    "question": "天气怎么样?",
+    "answer_time": 1580000000, //选填
+    "intent": "WEATHER", //选填
+    "type":"WEATHER", //选填
+    "answer": "今天天气晴朗" //选填
+  },
+  {
+    "question_time": 1580000000,
+    "question": "你好",
+    "answer_time": 1580000000, //选填
+    "intent": "", //选填
+    "type":"", //选填
+    "answer": "你好" //选填
+  },
+  {
+    "question_time": 1580000000,
+    "question": "眨眼",
+    "answer_time": 1580000000, //选填
+    "intent": "BLINK", //选填
+    "type":"HEAD_ACTION", //选填
+    "answer": "" //选填
+  }
+]
